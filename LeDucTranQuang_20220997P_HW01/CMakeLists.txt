@@ -1,0 +1,1 @@
+target_link_libraries(UDP_Server ws2_32)
